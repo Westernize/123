@@ -1,0 +1,11 @@
+{
+  "name": "GitHub Portfolio Uploader",
+  "short_name": "GitHub Uploader",
+  "description": "GitHub에 파일을 쉽게 업로드하는 도구",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0d1117",
+  "theme_color": "#1f6feb",
+  "orientation": "portrait-primary"
+}
+
